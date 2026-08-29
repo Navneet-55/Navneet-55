@@ -5,6 +5,10 @@
   alt="Navneet header"
 />
 
+## 👋 Hi, I'm Navneet
+
+I build mobile, web, and backend projects with a focus on clean product experience and practical engineering.
+
 <a href="https://www.linkedin.com/in/navneet-patnaik1/" target="_blank" rel="noopener noreferrer">
   <img
     alt="LinkedIn"
@@ -28,7 +32,7 @@
 
 ---
 
-## ✨ Tech Stack
+## 🚀 Tech Stack
 
 ### 🧠 Languages
 <p>
@@ -68,3 +72,11 @@
   <img src="https://img.shields.io/badge/Android%20Studio-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0B1F3B" />
   <img src="https://img.shields.io/badge/VS%20Code-4F46E5?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0B1F3B" />
 </p>
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: [navneet-patnaik1](https://www.linkedin.com/in/navneet-patnaik1/)
+- Email: [navneetpatnaik25@gmail.com](mailto:navneetpatnaik25@gmail.com)
+- Discord: [Join server](https://discord.gg/ShG8W5hBQC)
